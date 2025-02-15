@@ -1,0 +1,6 @@
+{
+  "ExplicitWaitInSeconds": 10,
+  "Language": "en",
+  "BrowserMode": "--incognito",
+  "BrowserType": "chrome"
+}

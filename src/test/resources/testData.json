@@ -1,0 +1,13 @@
+{
+  "urlMainPage": "https://demoqa.com/",
+  "webTablesTestData": [
+    {
+      "firstName": "Egor",
+      "lastName": "Pakhtusov",
+      "email": "m1ckalane1055@gmail.com",
+      "age": "20",
+      "salary": "45000",
+      "department": "AQA"
+    }
+  ]
+}
